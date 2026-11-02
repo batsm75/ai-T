@@ -1,0 +1,20 @@
+# Environment / secrets (JANGAN pernah di-commit)
+.env
+
+# Settings lokal pengguna
+config.json
+history.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.log
